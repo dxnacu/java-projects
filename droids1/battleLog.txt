@@ -1,0 +1,27 @@
+Four used boosted attack on Tris
+Tris attacks Four
+Four attacks Tris
+Tris used boosted attack on Four
+Helen attacks Tris
+Tris is defeated
+Oleh attacks Four
+Four is defeated
+Ian attacks Ken
+Helen used counter attack on Oleh
+Helen attacks Ken
+Helen used counter attack on Oleh
+Helen attacks Ken
+Helen used counter attack on Oleh
+Ian attacks Ken
+Helen used counter attack on Oleh
+Ian attacks Ken
+Ken is defeated
+Oleh attacks Helen
+Oleh used counter attack on Helen
+Oleh attacks Helen
+Oleh used counter attack on Helen
+Oleh used counter attack on Ian
+Oleh used counter attack on Ian
+Ian attacks Oleh
+Oleh is defeated
+Battle ended. Team 1 won!
